@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is David Melikdzhanov and Computer Science Student that want to be become a penetration tester with a good experience in web, from France.</p>
+<p align="left">My name is David Melikdzhanov I'm a Computer Science Student that want to be become a penetration tester with a good experience in web, from France.</p>
 
   <!-- Personal links -->
   <a href="https://www.linkedin.com/in/david-melikdzhanov/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin" /></a>
