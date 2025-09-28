@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is [Your Name] and I'm a cybersecurity-focused practitioner training to become a penetration tester, from [Your Location].</p>
+<p align="left">My name is David Melikdzhanov and I'm a cybersecurity-focused practitioner training to become a penetration tester, from [Your Location].</p>
 
 ###
 
@@ -14,7 +14,7 @@
 ✨ Creating bugs since [Year]<br>
 📚 I'm currently learning offensive security techniques, vulnerability discovery, exploit development, and pentesting methodologies.<br>
 🎯 Goals: Build practical pentesting experience and transition into a professional penetration testing career.<br>
-🎲 Fun fact: I also work as a freelance Shopify web developer and have experience with ASP.NET web applications, SEO, and UX improvements.
+🎲 Fun fact: I also work as a freelance Shopify web developer — building and optimising e-commerce sites, handling product and collection configuration, debugging translation systems, and implementing SEO improvements. I also have experience developing ASP.NET web applications (C#) and creating SEO-friendly UX elements.
 </p>
 
 ###
