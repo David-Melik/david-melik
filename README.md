@@ -16,7 +16,7 @@ My name is David Melikdzhanov. I'm a Computer Science student from France.
 <p align="left">
 ✨ Creating bugs since 2020<br>
 📚 Currently studying Computer Science at ESAIP<br>
-🎯 Goal: Become a cybersecurity engineer / penetration tester<br>
+🎯 Goal: Become a cybersecurity engineer<br>
 🌐 Strong interest in web technologies and offensive security
 </p>
 
